@@ -1,3 +1,3 @@
 # Bash Export tar-data to remote FTP
 
-does not consume disk space, ideal for servers with little free space ...
+Does not consume disk space, ideal for servers with little free space... like the ones I use to work on XD
